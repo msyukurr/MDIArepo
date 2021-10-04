@@ -1,7 +1,4 @@
-groceries
-bread
-butter
-milk
+
 
 
 
