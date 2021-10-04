@@ -1,0 +1,11 @@
+groceries
+bread
+butter
+milk
+
+
+
+school supplies
+pen
+paper
+glue
